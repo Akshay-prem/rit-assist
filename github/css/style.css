@@ -1,0 +1,29 @@
+.bgnav{
+background-color: gray;
+}
+body{
+    background-image: url(img/bg2);
+}
+h4.shoo{
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+p.ak{
+    text-align: center;
+}
+.services-container{
+    border: .5px solid grey;
+    padding: 5px;
+    cursor: pointer;
+    transition: 200ms ease-in-out;
+}
+.services-container:hover{
+    background: black;
+    color: white;
+}
+.my-icon{
+    color: grey;
+}
+.services-containers{
+    border: 5px solid grey;
+}
